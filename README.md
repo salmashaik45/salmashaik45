@@ -1,8 +1,6 @@
 ## 💫 About Me
 
-<p align="center">
 Hi 👋, I'm Salma Shaik, a Computer Science student from India.
-</p>
 
 🎓 Focused on full stack development and AI/ML  
 🚀 Currently building a full-stack application using the MERN stack  
@@ -42,5 +40,6 @@ Hi 👋, I'm Salma Shaik, a Computer Science student from India.
 
 <p align="center">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=salmashaik45&theme=dark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salmashaik45&layout=compact&theme=dark" />
 </p>
