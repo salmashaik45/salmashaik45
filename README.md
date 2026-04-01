@@ -46,32 +46,4 @@ Hi 👋, I'm Salma Shaik, a Computer Science Engineering student from India.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🫀 Cardiac Arrest Prediction System
-- ML + IoT system for real-time health risk prediction (~80% accuracy)  
-- Tech: Python, Django, Scikit-learn  
-
----
-
-### 🔐 Secure Image Steganography
-- Hide and extract messages in images using LSB technique  
-- Tech: Python, OpenCV, Streamlit  
-
----
-
-### 🎵 Spotify Web Player Clone
-- Interactive music player with real-time controls and UI sync  
-- Tech: HTML, CSS, JavaScript  
-
----
-
-### 🎨 Realtime Sketch Generator
-- Converts webcam input into pencil sketches using computer vision  
-- Tech: Python, OpenCV  
-
----
-
-### 🎲 Dice Roller App
-- Interactive React app with animations and random outcomes  
-- Tech: React, JavaScript  
+<!-- Proudly created with GPRM -->
