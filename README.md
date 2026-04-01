@@ -40,6 +40,11 @@ Hi 👋, I'm Salma Shaik, a Computer Science Engineering student from India.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=salmashaik45&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=salmashaik45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salmashaik45&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmashaik45&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmashaik45&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmashaik45&layout=compact&theme=dark" />
+</p>
