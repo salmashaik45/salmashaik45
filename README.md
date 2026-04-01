@@ -1,6 +1,8 @@
 ## 💫 About Me
 
-Hi 👋, I'm Salma Shaik, a Computer Science Engineering student from India.
+<p align="center">
+Hi 👋, I'm Salma Shaik, a Computer Science student from India.
+</p>
 
 🎓 Focused on full stack development and AI/ML  
 🚀 Currently building a full-stack application using the MERN stack  
