@@ -39,9 +39,6 @@ Hi 👋, I'm Salma Shaik, a Computer Science Engineering student from India.
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmashaik45&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salmashaik45&layout=compact&theme=dark" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=salmashaik45&theme=dark" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salmashaik45&layout=compact&theme=dark" />
 </p>
